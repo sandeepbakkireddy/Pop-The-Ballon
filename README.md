@@ -11,21 +11,15 @@
 - **Multiple difficulty levels** (easy, medium, hard)  
 - **Sound effects and background music** for an immersive experience  
 
-```
 
 ## 🛠️ Technologies Used  
 - **Programming Language**: Python  
 - **Library**: Pygame  
 
 
-## 🎮 Controls  
-- **Click on the balloons** to pop them  
-- **Score points** for each successful pop  
-- **Avoid missing too many balloons**, or the game ends!  
 
 
 
-Would you like any modifications or additional details? 🚀
 
 
 Screencast video recording demonstrating the solution
